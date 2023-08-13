@@ -734,7 +734,7 @@ footer span a:hover{
                 <div class="text-1">Hello! ,My name is</div>
                 <div class="text-2">Ganesh Deshmukh</div>
                 <div class="text-3">And I love, <span class="typing"></span></div>
-                <a href="https://linktr.ee/preksha5"  target="_blank">Let's Connect !</a>
+               
             </div>
         </div>
     </section>
@@ -847,7 +847,7 @@ footer span a:hover{
                     <div class="box">
                         <img src="kmitl.png" alt="">
                         <div class="text">ML Internship</div>
-                        <p>I have done an E-Internship in ML domain from King Mongkut's Institute of Technology Ladkrabang, Thailand.</p>
+                        <p>I have done an E-Internship in ML domain from YBI Foundation </p>
                     </div>
                 </div>
                 <div class="card">
